@@ -1,0 +1,39 @@
+.campo{
+      font-size: -webkit-xxx-large;
+}
+.campo1{
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    position: absolute;
+    cursor: pointer;
+}
+.campo2{
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    position: absolute;
+    cursor: pointer;
+}
+.put{/*diferenciar cores */
+    background-color: #2bda67;
+    border: 1px solid #000000;
+    position: absolute;
+}
+.conflict{/*diferenciar cores */
+    background-color: #d20f0f;
+    border: 1px solid #000000;
+    position: absolute;
+}
+.desabilitados{
+    display: none;
+}
+.dama{
+}
+
+#content{
+    display: block;
+    text-align: center;
+}
+#board{
+    position: absolute;
+    margin: auto 30%;
+}
